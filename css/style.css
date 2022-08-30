@@ -40,10 +40,11 @@ body{
 
 
   .header-section {
-      background-image: url("/images/SeaSaveWaves.gif");
+      background-image: url("/seasave/images/SeaSaveWaves.gif");
       height: 1037px;
       position: relative;
       width: 100%;
+      
   }
   .supportSeas {
       position: absolute;
